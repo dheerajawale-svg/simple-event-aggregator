@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAggregator", "EventAggregator\EventAggregator.csproj", "{3F3B8C4A-60A3-4A64-8520-0F049B169E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3B8C4A-60A3-4A64-8520-0F049B169E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B8C4A-60A3-4A64-8520-0F049B169E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B8C4A-60A3-4A64-8520-0F049B169E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B8C4A-60A3-4A64-8520-0F049B169E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF223B98-A33E-495C-BAD2-2DD0395C3D4F}
+	EndGlobalSection
+EndGlobal
